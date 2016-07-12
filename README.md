@@ -1,6 +1,6 @@
 # nunjucks async extension bug test case
 
-nunjucks fails somehow unter certain conditions when using asyncextension
+nunjucks fails somehow unter certain conditions when using async extensions
 
 desired output:
 ```

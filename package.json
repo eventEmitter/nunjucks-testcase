@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-testcase",
-  "description": "nunjucks fails somehow unter certain conditions when using asyncextension",
+  "description": "nunjucks fails somehow unter certain conditions when using async extensions",
   "version": "0.0.1",
   "homepage": "https://github.com/eventEmitter/nunjucks-testcase",
   "author": "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)",
