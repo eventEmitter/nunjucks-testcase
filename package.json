@@ -1,0 +1,26 @@
+{
+  "name": "nunjucks-testcase",
+  "description": "nunjucks fails somehow unter certain conditions when using asyncextension",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eventEmitter/nunjucks-testcase",
+  "author": "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/eventEmitter/nunjucks-testcase.git",
+    "type": "git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "bugs": {
+    "url": "https://github.com/eventEmitter/nunjucks-testcase/issues"
+  },
+  "dependencies": {
+    "nunjucks": "^2.4.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "keywords": [],
+  "scripts": {},
+  "private": true
+}
