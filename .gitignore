@@ -11,15 +11,11 @@ pids
 logs
 results
 
-config.js
-config-test.js
-test-config.js
 
 npm-debug.log
 
 travis.js
 
-test.js
 
 node_modules
 config.js
