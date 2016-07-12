@@ -2,11 +2,11 @@
 
 nunjucks fails somehow unter certain conditions when using async extensions
 
-desired output:
+expected output:
 ```
     1. before include
-    2. start test
-    3. end test
+    2. start extension call
+    3. end extension call
     4. after include
 ```
 
