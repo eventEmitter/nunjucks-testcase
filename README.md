@@ -17,6 +17,12 @@ actual output:
 ```
 
 the test fails only if the following conditions are met:
-- the extnesion must be called from within an included file
+- the extension must be called from within an included file
 - the included file must be included within a if statement
 - the extension must not call the callback immediately
+
+
+## Setup
+
+1. npm i
+2. node tests.js
