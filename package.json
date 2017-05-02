@@ -16,7 +16,7 @@
     "url": "https://github.com/eventEmitter/nunjucks-testcase/issues"
   },
   "dependencies": {
-    "nunjucks": "^2.4.2"
+    "nunjucks": "^3.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
