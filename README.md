@@ -1,5 +1,7 @@
 # nunjucks async extension bug test case
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/nunjucks-testcase.svg)](https://greenkeeper.io/)
+
 nunjucks fails somehow unter certain conditions when using async extensions
 
 expected output:
